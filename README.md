@@ -1,9 +1,9 @@
 <p align="center">
     <h1 align="center">✩&emsp;Juliana Rangel Barbosa&emsp;✩</h1>
 </p>
-<p align="center">
-    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
+<p align="center">🖥️ I’m a Fullstack developer</p>
+<p align="center">👀 I’m interested in code and developing projects (software, app, site)</p>
+<p align="center">🌱 I’m currently learning Javascript and React, as well as agile methodologies (Srcum, Product Owner, Kanbam)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -11,8 +11,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a> 
 </p>
-<br>
-<br>
 <br>
 <p align="center" target="_blank" >
     <a href="https://www.codewars.com/users/julianabarbosa/badges/large" >
