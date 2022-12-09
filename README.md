@@ -23,8 +23,6 @@
     </a>
 </p>
 
-<h1 align="center"> Check out my most recent app:  <a href="https://ih-karaoke-app.web.app/" target="_blank" rel="noreferrer" >Ironhack Karaoke App</a> </h1>
-
 <!---
 julianarangelbarbosa/julianarangelbarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
