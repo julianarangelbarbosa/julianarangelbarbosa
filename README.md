@@ -1,9 +1,9 @@
 <p align="center">
     <h1 align="center">✩&emsp;Juliana Rangel Barbosa&emsp;✩</h1>
 </p>
-<p align="center">🖥️ I’m a Fullstack developer</p>
-<p align="center">👀 I’m interested in code and developing projects (software, app, site)</p>
-<p align="center">🌱 I’m currently learning Javascript and React, as well as agile methodologies (Srcum, Product Owner, Kanbam)</p>
+<p align="center">🖥️ I’m a Wev Dev and QA Tester<p>
+<p align="center">👀 I’m interested in developing projects (software, app, site)</p>
+<p align="center">🌱 I’m currently learning Javascript, React and Software Testing Methodology, as well as agile methodologies (Srcum, Product Owner, Kanbam)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
